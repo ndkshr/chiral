@@ -266,8 +266,11 @@
 }
 
 .stream__actions a.active,
-.stream__actions button.active,
-.stream__actions a:hover,
-.stream__actions button:hover {
-  background-color: #845695;
+.stream__actions button.active {
+  background-color: #ac22df;
 }
+
+/* .stream__actions a:hover,
+.stream__actions button:hover {
+  background-color: #ac22df;
+} */
